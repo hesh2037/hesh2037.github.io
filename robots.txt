@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /maps/api/js/AuthenticationService.Authenticate
+Allow: /maps/api/js/QuotaService.RecordEvent
+
+Sitemap: http://www.7alterations.com.au/sitemap.xml
