@@ -1,2 +1,5 @@
 plugins:
   - jekyll-redirect-from
+
+redirect_from:
+  - 7alterations.com
