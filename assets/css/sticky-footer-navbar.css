@@ -53,7 +53,10 @@ font-size: 16px;
 
 .body {
   /* Margin bottom by footer height */
-  margin-bottom: 140px;
+  /* margin-bottom: 140px; */
+
+  margin-bottom: 170px;
+  font-size: 18px
 }
 
 
