@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.navbar {
+ border-radius: 0;
+ /*margin-bottom: 0;*/
+}
+
+.navbar-brand {
+  padding: 0px;
+  /*height: 55px;*/
+}
+.navbar-brand>img {
+  /* height: 100%; */
+  /*padding: 15px;*/
+  width: auto;
+}
+
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.margin-top-row{
+margin-top: 20px;
+}
+.margin-bottom-row{
+margin-bottom: 20px;
+}
+
+.navbar-header {
+  height: 100px;
+}
